@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Öğrenci Kayıt</title>
+    
+    <style>
+        body{
+            background-color: rgb(241, 231, 135);
+        }
+
+        h1{
+            Font-size: 45px;
+            text-align: center;
+            color: rgb(185, 34, 24);
+        }
+        table{
+            tab-size: 200ch;
+            text-align: left;
+            background-color: rgb(241, 245, 206);
+            Font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 16px;
+            border-style:groove;
+            border-color: white;
+        }
+        button{
+            display: table;
+            margin-right: auto;
+            margin-left: auto;
+            width: 10em;
+            height: 2em;
+            
+        }
+        #name{
+            font-size: 16px;
+            width: 80%;
+            padding: 5px;
+            border-radius: 5%;
+            border: 2px solid lightgray;
+        }
+        
+    </style>
+
+</head>
+
+<body>
+    
+    <h1>Öğrenci Bilgileri Kayıt</h1>
+    <div>
+        <table align="center" cellpadding="9">
+            <tr>
+                <td>Ad:</td>
+                <td><input type="text" id="name" name="name" placeholder="Adınızı Giriniz!"></td>
+            </tr>
+            <tr>
+                <td>Soyad:</td>
+                <td><input type="text" id="name" name="lastName" placeholder="Soyadınızı Giriniz!"></td>
+            </tr>
+            <tr>
+                <td>Öğrenci Numarası:</td>
+                <td><input type="text" id="name" name="no" placeholder="Öğrenci No Giriniz!"></td>
+            </tr>
+            <tr>
+                <td>E-Mail:</td>
+                <td><input type="email" id="name" name="email" placeholder="E-Mail Giriniz!"></td>
+            </tr>
+            <tr>
+                <td>Telefon:</td>
+                <td><input type="number" id="name" name="phone" placeholder="Telefon No Giriniz!"></td>
+            </tr>
+            <tr>
+                <td>Doğum Tarihi:</td>
+                <td><input type="date" id="name" name="dt"></td>
+            </tr>
+            <tr>
+                <td>Cinsiyet:</td>
+                <td><input type="radio" name="male">Erkek
+                    <input type="radio" name="male">Kadın
+                    <input type="radio" name="male">Diğer
+                </td>
+            </tr>
+            <tr>
+                <td>Adres:</td>
+                <td><textarea cols="25" id="name" rows="6" placeholder="Adres Bilgisi Giriniz!"></textarea></td>
+            </tr>
+            <tr>
+                <td>İl:</td>
+                <td><input type="text" id="name" name="city" placeholder="Doğum Yeri Giriniz!"></td>
+            </tr>
+            <tr>
+                <td>Ülke:</td>
+                <td><input type="text" id="name" name="country" placeholder="Ülke Giriniz!"></td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <br>
+            <button><b>Kaydet</b></button>
+        <br>
+    </div>
+</body>
+</html>
