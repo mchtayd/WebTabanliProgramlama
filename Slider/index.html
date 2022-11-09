@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Slider</title>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+      integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+      crossorigin="anonymous"
+    />
+    
+  </head>
+  <body>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Roboto');
+
+        * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        }
+
+        body {
+        font-family: 'Roboto', sans-serif;
+        background: #333;
+        color: #fff;
+        line-height: 1.6;
+        }
+
+        .slider {
+        position: relative;
+        overflow: hidden;
+        height: 100vh;
+        width: 100vw;
+        }
+
+        .slide {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 0.4s ease-in-out;
+        }
+
+        .slide.current {
+        opacity: 1;
+        }
+
+        .slide .content {
+        position: absolute;
+        bottom: 70px;
+        left: -600px;
+        opacity: 0;
+        width: 600px;
+        background-color: rgba(255, 255, 255, 0.8);
+        color: #333;
+        padding: 35px;
+        }
+
+        .slide .content h1 {
+        margin-bottom: 10px;
+        }
+
+        .slide.current .content {
+        opacity: 1;
+        transform: translateX(600px);
+        transition: all 0.7s ease-in-out 0.3s;
+        }
+
+        .buttons button#next {
+        position: absolute;
+        top: 40%;
+        right: 15px;
+        }
+
+        .buttons button#prev {
+        position: absolute;
+        top: 40%;
+        left: 15px;
+        }
+
+        .buttons button {
+        border: 2px solid #fff;
+        background-color: transparent;
+        color: #fff;
+        cursor: pointer;
+        padding: 13px 15px;
+        border-radius: 50%;
+        outline: none;
+        }
+
+        .buttons button:hover {
+        background-color: #fff;
+        color: #333;
+        }
+
+        @media (max-width: 500px) {
+        .slide .content {
+            bottom: -300px;
+            left: 0;
+            width: 100%;
+        }
+
+        .slide.current .content {
+            transform: translateY(-300px);
+        }
+        }
+
+        /* Backgorund Images */
+ 
+        .slide:first-child {
+            background: url('images/photo1.jpeg') no-repeat
+            center top/cover;
+        }
+        .slide:nth-child(2) {
+            background: url('images/photo2.jpg') no-repeat
+            center top/cover;
+        }
+        .slide:nth-child(3) {
+            background: url('images/photo3.jpeg') no-repeat
+            center top/cover;
+        }
+        .slide:nth-child(4) {
+            background: url('images/photo4.jpeg') no-repeat
+            center top/cover;
+         } 
+        .slide:nth-child(5)  {
+            background: url('images/photo5.jpeg') no-repeat
+            center center/cover;
+        }
+        .slide:nth-child(6)  {
+            background: url('images/photo6.jpeg') no-repeat
+            center center/cover;
+        }
+    </style>
+
+    <div class="slider">
+      <div class="slide current">
+        <div class="content">
+          <h1>Galata Kulesi</h1>
+          <p>
+            Galata Kulesi ya da müze olarak kullanılmaya başlaması sonrasındaki adıyla Galata Kulesi Müzesi, 
+            Türkiye'nin İstanbul şehrinin Beyoğlu ilçesinde bulunan bir kuledir. Adını, bulunduğu Galata semtinden alır.
+          </p>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="content">
+          <h1>Tarihi Bayraklı Köprü</h1>
+          <p>
+            Tarihi Bayraklı Köprü Ordu'nun Arpaköy'ünde bulunan tarihi bir köprüdür. 18. yy. dönemine ait olan köprü ilk günkü gibi
+            sağlamlamlığını korumakta olup köy halkı tarafından restore edilmiştir. 
+          </p>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="content">
+          <h1>Boğaz Manzarası</h1>
+          <p>
+            Her hali ile ayrı güzel olan İstanbul'un adeta temsilcilerinden olan bu eşsiz güzellik geceleri de tüm zarafetini göstermekte. 
+          </p>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="content">
+          <h1>Cami ve İstanbul Boğazı</h1>
+          <p>
+            İstanbul'un sayısız güzelliklerinden yakalanmış olan bu harika kare ödül almayı hak eden bir güzellikte.
+          </p>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="content">
+          <h1>Kapadokya</h1>
+          <p>
+            Her yıl binlerce turistin akın ettiği Kapadokya, balon turları sayesinde Peri Bacalarını ve Kapadokya'nın eşsiz güzelliğini görmek
+            için benzersiz bir aktivite.
+          </p>
+        </div>
+      </div>
+      <div class="slide">
+        <div class="content">
+          <h1>Muğla Marina</h1>
+          <p>
+            Türkiye'nin en güzel yerlerinden birisi olan Muğla ilindeki bu eşsiz manzara yaz aylarının vazgeçilmezi oluyor. Tatil beldelerinde
+            listenin başında bulunuyor.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="buttons">
+      <button id="prev"><i class="fas fa-arrow-left"></i></button>
+      <button id="next"><i class="fas fa-arrow-right"></i></button>
+    </div>
+
+
+    <script>
+        const slides = document.querySelectorAll('.slide');
+        const next = document.querySelector('#next');
+        const prev = document.querySelector('#prev');
+        const auto = false; // Auto scroll
+        const intervalTime = 5000;
+        let slideInterval;
+
+        const nextSlide = () => {
+        // Mevcutu al
+        const current = document.querySelector('.current');
+        // Listeyi kaldır
+        current.classList.remove('current');
+        //Öncekini kontrol et
+        if (current.nextElementSibling) {
+            // Sonuncuyu ekle
+            current.nextElementSibling.classList.add('current');
+        } else {
+            // Başla
+            slides[0].classList.add('current');
+        }
+        setTimeout(() => current.classList.remove('current'));
+        };
+
+        const prevSlide = () => {
+        // Mevcutu al
+        const current = document.querySelector('.current');
+        // Listeyi kaldır
+        current.classList.remove('current');
+        // Öncekini kontrol et
+        if (current.previousElementSibling) {
+            // öncekini ekle
+            current.previousElementSibling.classList.add('current');
+        } else {
+            // Sonuncuyu ekle
+            slides[slides.length - 1].classList.add('current');
+        }
+        setTimeout(() => current.classList.remove('current'));
+        };
+
+        // Button Click Next
+        next.addEventListener('click', e => {
+        nextSlide();
+        if (auto) {
+            clearInterval(slideInterval);
+            slideInterval = setInterval(nextSlide, intervalTime);
+        }
+        });
+
+        // Button Click Prev
+        prev.addEventListener('click', e => {
+        prevSlide();
+        if (auto) {
+            clearInterval(slideInterval);
+            slideInterval = setInterval(nextSlide, intervalTime);
+        }
+        });
+
+        
+        if (auto) {
+        // Sonraki slaytı aralık zamanında çalıştır
+        slideInterval = setInterval(nextSlide, intervalTime);
+        }
+    </script>
+  </body>
+</html>
