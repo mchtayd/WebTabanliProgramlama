@@ -1,0 +1,99 @@
+C:\Users\AS902569\Desktop\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.csproj.AssemblyReference.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS902569\Desktop\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.AssemblyInfoInputs.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.AssemblyInfo.cs
+C:\Users\AS902569\Desktop\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.csproj.CoreCompileInputs.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.RazorAssemblyInfo.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.RazorAssemblyInfo.cs
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.csproj.AssemblyReference.cache
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.AssemblyInfoInputs.cache
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.AssemblyInfo.cs
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.csproj.CoreCompileInputs.cache
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.MvcApplicationPartsAssemblyInfo.cache
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.RazorAssemblyInfo.cache
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.RazorAssemblyInfo.cs
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\refint\MVC_WebInterface.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.pdb
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\appsettings.Development.json
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\appsettings.json
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.staticwebassets.runtime.json
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.exe
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.deps.json
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.runtimeconfig.json
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.pdb
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Autofac.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\AutoMapper.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Business.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\DataAccess.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Business.pdb
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\DataAccess.pdb
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets.build.json
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets.development.json
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\scopedcss\bundle\MVC_WebInterface.styles.css
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\scopedcss\projectbundle\MVC_WebInterface.bundle.scp.css
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.csproj.CopyComplete
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.genruntimeconfig.cache
+C:\Erisim_Projects\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\ref\MVC_WebInterface.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.csproj.AssemblyReference.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.AssemblyInfoInputs.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.AssemblyInfo.cs
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.csproj.CoreCompileInputs.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.RazorAssemblyInfo.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.RazorAssemblyInfo.cs
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\refint\MVC_WebInterface.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\appsettings.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.staticwebassets.runtime.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.exe
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.deps.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.runtimeconfig.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\MVC_WebInterface.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Autofac.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Business.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\DataAccess.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Entity.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Business.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\bin\Debug\net6.0\Entity.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets\msbuild.MVC_WebInterface.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC_WebInterface.props
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC_WebInterface.props
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC_WebInterface.props
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\scopedcss\bundle\MVC_WebInterface.styles.css
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\scopedcss\projectbundle\MVC_WebInterface.bundle.scp.css
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.csproj.CopyComplete
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\MVC_WebInterface.genruntimeconfig.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\MVC_WebInterface\obj\Debug\net6.0\ref\MVC_WebInterface.dll

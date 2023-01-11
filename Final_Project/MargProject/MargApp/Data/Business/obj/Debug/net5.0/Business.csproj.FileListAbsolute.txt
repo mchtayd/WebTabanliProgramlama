@@ -1,0 +1,6 @@
+C:\Users\MAYıldırım\source\repos\MargApp\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\MAYıldırım\source\repos\MargApp\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYıldırım\source\repos\MargApp\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\MAYıldırım\source\repos\MargApp\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\MAYıldırım\source\repos\MargApp\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\MAYıldırım\source\repos\MargApp\Business\obj\Debug\net5.0\Business.MvcApplicationPartsAssemblyInfo.cache

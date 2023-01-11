@@ -1,0 +1,6 @@
+C:\Users\MAYıldırım\source\repos\MargApp\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\MAYıldırım\source\repos\MargApp\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYıldırım\source\repos\MargApp\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\MAYıldırım\source\repos\MargApp\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\MAYıldırım\source\repos\MargApp\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MAYıldırım\source\repos\MargApp\DataAccess\obj\Debug\net5.0\DataAccess.MvcApplicationPartsAssemblyInfo.cache

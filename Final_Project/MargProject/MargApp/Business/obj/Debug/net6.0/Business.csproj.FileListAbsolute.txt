@@ -1,0 +1,80 @@
+C:\Erisim_Projects\ErisimWebServices\Business\bin\Debug\net6.0\Business.deps.json
+C:\Erisim_Projects\ErisimWebServices\Business\bin\Debug\net6.0\Business.dll
+C:\Erisim_Projects\ErisimWebServices\Business\bin\Debug\net6.0\Business.pdb
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\Business.dll
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\Business.pdb
+C:\Erisim_Projects\ErisimWebServices\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\Business.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\Business.pdb
+C:\Erisim_Projects\ErisimBaseWebProject\Business\bin\Debug\net6.0\Business.deps.json
+C:\Erisim_Projects\ErisimBaseWebProject\Business\bin\Debug\net6.0\Business.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Business\bin\Debug\net6.0\Business.pdb
+C:\Erisim_Projects\ErisimBaseWebProject\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Business\bin\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Erisim_Projects\ErisimBaseWebProject\Business\bin\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Erisim_Projects\ErisimBaseWebProject\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\bin\Debug\net6.0\Business.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\bin\Debug\net6.0\Entity.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\bin\Debug\net6.0\Entity.pdb
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\Business.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\AS902569\Desktop\MargProject\MargApp\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Erisim_Projects\MargProject\MargApp\Business\bin\Debug\net6.0\Business.deps.json
+C:\Erisim_Projects\MargProject\MargApp\Business\bin\Debug\net6.0\Business.dll
+C:\Erisim_Projects\MargProject\MargApp\Business\bin\Debug\net6.0\Business.pdb
+C:\Erisim_Projects\MargProject\MargApp\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Erisim_Projects\MargProject\MargApp\Business\bin\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\MargProject\MargApp\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Erisim_Projects\MargProject\MargApp\Business\bin\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\Business.dll
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\Business.pdb
+C:\Erisim_Projects\MargProject\MargApp\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\Business.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\bin\Debug\net6.0\Business.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\bin\Debug\net6.0\Entity.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\bin\Debug\net6.0\Entity.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Business\obj\Debug\net6.0\ref\Business.dll

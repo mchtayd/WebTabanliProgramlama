@@ -1,0 +1,60 @@
+C:\Erisim_Projects\ErisimWebServices\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Erisim_Projects\ErisimWebServices\Entity\bin\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\ErisimWebServices\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\ErisimWebServices\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\bin\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\ErisimBaseWebProject\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\AS902569\Desktop\MargProject\MargApp\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Erisim_Projects\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Erisim_Projects\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.dll
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Erisim_Projects\MargProject\MargApp\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\MAYıldırım\Desktop\Yeni klasör (5)\MargProject\MargProject\MargApp\Entity\obj\Debug\net6.0\ref\Entity.dll
